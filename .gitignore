@@ -1,0 +1,19 @@
+# Make #
+########
+config.build
+config.make
+
+# CLion #
+########
+.idea/
+
+# CMake #
+########
+cmake_install.cmake
+cmake_uninstall.cmake
+CMakeFiles
+CMakeCache.txt
+CPackConfig.cmake
+CPackSourceConfig.cmake
+cmake_*
+cmake-build-*
